@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @omar-abdelraheem
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end development technologis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me omarabdelraheeem@gmail.com tel:+201116595710 
+# 👋 Hi there, I'm Omar Abdelraheem
 
-<!---
-omar-abdelraheem/omar-abdelraheem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Front-End Developer in progress**  
+I'm passionate about creating clean, responsive, and user-friendly web interfaces.  
+Currently learning and building projects using **HTML**, **CSS**, **JavaScript**, and **React**.
+
+---
+
+### 👀 Interests
+- Web development & UI design  
+- Learning modern front-end technologies  
+- Building real-world projects for practice
+
+---
+
+### 🌱 Currently Learning
+- React.js & Next.js fundamentals  
+- Modern JavaScript (ES6+)  
+- API integration and state management
+
+---
+
+### 💞️ Looking to Collaborate On
+- Front-end projects  
+- Open-source contributions  
+- Small creative web apps
+
+---
+
+### 📫 Contact Me
+- 📧 **Email:** [omarabdelraheeem@gmail.com](mailto:omarabdelraheeem@gmail.com)  
+- 📱 **Phone:** [+20 111 659 5710](tel:+201116595710)  
+- 💼 **LinkedIn:** (Add your LinkedIn link here if you have one)  
+- 🧑‍💻 **GitHub:** [@omar-abdelraheem](https://github.com/omar-abdelraheem)
+
+---
+
+⭐️ *“Always learning, always improving.”*
