@@ -30,7 +30,7 @@ Currently learning and building projects using **HTML**, **CSS**, **JavaScript**
 ### 📫 Contact Me
 - 📧 **Email:** [omarabdelraheeem@gmail.com](mailto:omarabdelraheeem@gmail.com)  
 - 📱 **Phone:** [+20 111 659 5710](tel:+201116595710)  
-- 💼 **LinkedIn:** (Add your LinkedIn link here if you have one)  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/omar-abd-el-raheem-573938123/  
 - 🧑‍💻 **GitHub:** [@omar-abdelraheem](https://github.com/omar-abdelraheem)
 
 ---
