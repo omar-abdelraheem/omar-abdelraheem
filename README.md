@@ -1,38 +1,36 @@
-# 👋 Hi there, I'm Omar Abdelraheem
+# Hi, I'm Omar Abdelraheem 👋
 
-💻 **Front-End Developer in progress**  
-I'm passionate about creating clean, responsive, and user-friendly web interfaces.  
-Currently learning and building projects using **HTML**, **CSS**, **JavaScript**, and **React**.
+I'm a Front-End Developer in progress, focused on building clean, responsive, and user-friendly web interfaces.  
+Currently learning and building projects with **HTML, CSS, JavaScript, React, and Next.js**.
 
----
+## About Me
 
-### 👀 Interests
-- Web development & UI design  
-- Learning modern front-end technologies  
-- Building real-world projects for practice
+- I enjoy building responsive and interactive web interfaces
+- I'm currently improving my skills through real-world frontend projects
+- I'm focused on writing cleaner code and understanding modern frontend workflows
+- I'm continuously learning and improving step by step
 
----
+## Currently Learning
 
-### 🌱 Currently Learning
-- React.js & Next.js fundamentals  
-- Modern JavaScript (ES6+)  
-- API integration and state management
+- React.js
+- Next.js fundamentals
+- Modern JavaScript (ES6+)
+- API integration
+- State management
 
----
+## Open to Collaborate On
 
-### 💞️ Looking to Collaborate On
-- Front-end projects  
-- Open-source contributions  
-- Small creative web apps
+- Front-end projects
+- Open-source contributions
+- Small creative web applications
 
----
+## Contact
 
-### 📫 Contact Me
-- 📧 **Email:** [omarabdelraheeem@gmail.com](mailto:omarabdelraheeem@gmail.com)  
-- 📱 **Phone:** [+20 111 659 5710](tel:+201116595710)  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/omar-abd-el-raheem-573938123/  
-- 🧑‍💻 **GitHub:** [@omar-abdelraheem](https://github.com/omar-abdelraheem)
+- **Email:** [omarabdelraheeem@gmail.com](mailto:omarabdelraheeem@gmail.com)
+- **Phone:** [+20 111 659 5710](tel:+201116595710)
+- **LinkedIn:** [linkedin.com/in/omar-abd-el-raheem-573938123](https://www.linkedin.com/in/omar-abd-el-raheem-573938123/)
+- **GitHub:** [github.com/omar-abdelraheem](https://github.com/omar-abdelraheem)
 
 ---
 
-⭐️ *“Always learning, always improving.”*
+⭐ Always learning, always improving.
